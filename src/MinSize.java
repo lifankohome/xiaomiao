@@ -1,5 +1,5 @@
 /**
- * Created By IntelliJ IDEA 15.0.2.
+ * Created By IntelliJ IDEA 15.0.2
  * Author lifanko lee
  * Date 2017/10/28
  */
