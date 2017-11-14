@@ -15,4 +15,4 @@
 
 ### Diagram of constructors
 
-![Diagram of constructors](https://raw.githubusercontent.com/lifankohome/xiaomiao/master/diagram.jpg)
+![Diagram of constructors](http://cdn.lifanko.cn/diagramXiaomiao.jpg)
