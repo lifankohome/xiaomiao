@@ -11,8 +11,6 @@
 
 > Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
 
-演示地址：http://hpu.lifanko.cn:81/admin/person.php
-
 ### Diagram of constructors
 
 ![Diagram of constructors](https://raw.githubusercontent.com/lifankohome/xiaomiao/master/diagramXiaomiao.jpg)
