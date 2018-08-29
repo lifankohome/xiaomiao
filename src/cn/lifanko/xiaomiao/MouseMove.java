@@ -102,7 +102,7 @@ public class MouseMove implements ActionListener {
 			f.setIconImage(Toolkit.getDefaultToolkit().getImage(
 					Login.class.getResource("/com/sun/javafx/scene/control/skin/caspian/dialog-fewer-details@2x.png")));
 			// quick hack to end the frame and timer
-			f.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+			f.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
 			f.setResizable(false);
 			f.setContentPane(ui);
 			f.pack();
@@ -133,7 +133,7 @@ public class MouseMove implements ActionListener {
 
 			f = new JFrame("正在考勤 - 1420实验室 ©2018");
 			// quick hack to end the frame and timer
-			f.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+			f.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
 			f.setResizable(false);
 			f.setContentPane(ui);
 			f.pack();
