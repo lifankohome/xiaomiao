@@ -48,7 +48,7 @@ public class MinSize implements ActionListener {
 				}
 			});
 
-			trayIcon.setToolTip("状态：" + Network.status + "\r\n姓名：" + Network.name + "\r\n学号：" + Network.stuId);// 添加工具提示文本
+			trayIcon.setToolTip("状态：" + Network.status + "\r\n姓名：" + Network.name + "\r\n学号：" + Network.stuId);// 添加提示文本
 
 			// 创建弹出菜单
 			PopupMenu popupMenu = new PopupMenu();
